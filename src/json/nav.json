@@ -1,0 +1,154 @@
+[
+    {
+        "id": 1,
+        "name": "评审报告查阅",
+        "children": [
+            { 
+                "id": 11,
+                "name": "评审报告查询",
+                "path": "main"
+            },
+            { 
+                "id": 12,
+                "name": "报告指标分析",
+                "path": "reportIndicatorsAnalysis"
+            },
+            { 
+                "id": 13,
+                "name": "数据质量提升",
+                "path": "dataQualityImprovement"
+            },
+            { 
+                "id": 14,
+                "name": "评审报告查重",
+                "path": "reviewReportReview"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "评审数据挖掘",
+        "children": [
+            { 
+                "id": 21,
+                "name": "客户信息",
+                "path": "customerInformation"
+            },
+            { 
+                "id": 22,
+                "name": "项目信息",
+                "path": "projectInformation"
+            },
+            { 
+                "id": 23,
+                "name": "行业信息",
+                "path": "industryInformation"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "报告编写支持",
+        "children": [
+            {
+                "id": 31,
+                "name": "报告编写支持",
+                "path": "reportWritingSupport"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "报告审查支持",
+        "children": [
+            { 
+                "id": 41,
+                "name": "报告审查支持",
+                "path": "reportReviewSupport"
+            },
+            { 
+                "id": 42,
+                "name": "贷委会纪要编写",
+                "path": "dwhOnlineWriting"
+            },
+            { 
+                "id": 43,
+                "name": "评审报告知识库",
+                "path": "reviewReportKnowledgeBase"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "练习项目",
+        "children": [
+            { 
+                "id": 51,
+                "name": "用户管理",
+                "path": "crud"
+            },
+            { 
+                "id": 52,
+                "name": "可视化图表",
+                "path": "ECharts"
+            },
+            { 
+                "id": 53,
+                "name": "ElementUI",
+                "path": "ElementUI"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Demo",
+        "children": [
+            { 
+                "id": 61,
+                "name": "事件总线传值",
+                "path": "demo1"
+            },
+            { 
+                "id": 62,
+                "name": "Vue搜索功能",
+                "path": "search"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Vue-知识库",
+        "children": [
+            {
+                "id": 71,
+                "name": "事件总线传值",
+                "path": "BusHome"
+            },
+            {
+                "id": 72,
+                "name": "Vue搜索功能",
+                "path": "search"
+            },
+            {
+                "id": 73,
+                "name": "高亮显示",
+                "path": "highlight"
+            },
+            {
+                "id": 74,
+                "name": "particle粒子运动",
+                "path": "particle"
+            },
+            {
+                "id": 75,
+                "name": "vue-particle粒子运动",
+                "path": "vueparticles"
+            },
+            {
+                "id": 76,
+                "name": "mock模拟假数据",
+                "path": "mock"
+            }
+        ]
+    }
+]

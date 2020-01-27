@@ -1,0 +1,88 @@
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon_add:before {
+  content: "\eb8f";
+}
+
+.icon-icon_calendar:before {
+  content: "\eb91";
+}
+
+.icon-icon_delete:before {
+  content: "\eb93";
+}
+
+.icon-icon_file:before {
+  content: "\eb95";
+}
+
+.icon-icon_GPS:before {
+  content: "\eb96";
+}
+
+.icon-icon_im_more:before {
+  content: "\eb97";
+}
+
+.icon-icon_likegood:before {
+  content: "\eb98";
+}
+
+.icon-icon_left:before {
+  content: "\eb99";
+}
+
+.icon-icon_next_arrow:before {
+  content: "\eb9a";
+}
+
+.icon-icon_refresh:before {
+  content: "\eb9c";
+}
+
+.icon-icon_approval_fill:before {
+  content: "\eba4";
+}
+
+.icon-aixin:before {
+  content: "\e8ab";
+}
+
+.icon-chuangzuo:before {
+  content: "\e8ad";
+}
+
+.icon-taolunqu:before {
+  content: "\e8b9";
+}
+
+.icon-xiazai:before {
+  content: "\e8bc";
+}
+
+.icon-jiesuo:before {
+  content: "\e626";
+}
+
+.icon-zhongzhimima:before {
+  content: "\e60c";
+}
+
+.icon-kehuzhongxin:before {
+  content: "\e60f";
+}
+
+.icon-cebianshouqi:before {
+  content: "\e612";
+}
+
+.icon-cebianshouqi1:before {
+  content: "\e613";
+}
+
